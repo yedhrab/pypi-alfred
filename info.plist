@@ -105,9 +105,9 @@
 				<key>scriptfile</key>
 				<string></string>
 				<key>subtext</key>
-				<string>Enter to copy to clipboard | ⌘ to go URL</string>
+				<string>Type package query and enter to copy to clipboard | ⌘ to go URL</string>
 				<key>title</key>
-				<string>Type package name</string>
+				<string>Search pypi for {query}</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -247,7 +247,7 @@ limitations under the License.
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>1.0.0</string>
+	<string>1.0.1</string>
 	<key>webaddress</key>
 	<string>https://yemreak.com</string>
 </dict>
